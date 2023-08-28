@@ -13,4 +13,8 @@ Install mediapipe
 Install numpy
 `pip install numpy
 `
+<br/>
+
+# Colors 
+
 <img src="https://i.imgur.com/xgkSehf.png">
