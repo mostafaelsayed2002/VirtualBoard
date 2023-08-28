@@ -13,4 +13,4 @@ Install mediapipe
 Install numpy
 `pip install numpy
 `
-<img src="https://i.imgur.com/xgkSehf.png"/>
+<img src="https://i.imgur.com/xgkSehf.png">
